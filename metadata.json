@@ -1,0 +1,5 @@
+{
+  "name": "Cesium platform",
+  "description": "A high-performance 3D geospatial visualization portfolio platform featuring interactive CesiumJS examples and AI-assisted code analysis.",
+  "requestFramePermissions": []
+}
